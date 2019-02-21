@@ -22,8 +22,8 @@ for await (const f of walk('.')) {
 
 ```
 {
-  path: 'directory1/directory2/myfile.txt', // the path to the file relative to the initial director
+  path: '/home/statenlogic/directory1/directory2/myfile.txt', // the path to the file
   stats: Stats // A Stats object as returned by Node's `fs.lsstat` function. May be missing if `fs.lsstat` failed.
-  error: Error // An optional error object, present if an error was reported
+  error: Error // A possible error object, present if an error was reported
 }
 ```
