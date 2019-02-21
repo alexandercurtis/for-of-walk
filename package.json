@@ -1,0 +1,15 @@
+{
+  "name": "@statenlogic/for-of-walk",
+  "version": "1.0.0-beta.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.0"
+  }
+}
