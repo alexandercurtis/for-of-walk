@@ -1,6 +1,6 @@
 {
   "name": "@statenlogic/for-of-walk",
-  "version": "1.0.0-beta.0",
+  "version": "1.0.0-beta.1",
   "description": "Filesystem walker that uses an async iterator",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,8 @@
   "author": "Alexander Curtis",
   "license": "ISC",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/alexandercurtis/for-of-walk"
+    "type": "git",
+    "url": "https://github.com/alexandercurtis/for-of-walk"
   },
   "devDependencies": {
     "chai": "^4.2.0",
