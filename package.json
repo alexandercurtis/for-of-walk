@@ -1,6 +1,6 @@
 {
   "name": "@statenlogic/for-of-walk",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.0",
   "description": "A file walker that uses asynchronous iterators. It recursively explores files and directories in a file system and returns them as an iterable sequence. Useful when you want to list the files in a directory and its subdirectories.",
   "main": "index.js",
   "scripts": {
